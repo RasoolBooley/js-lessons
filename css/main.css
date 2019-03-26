@@ -1,0 +1,33 @@
+
+
+.uno {
+    background-color: pink;
+    height: 100px;
+    width: 100px;
+    position: relative;
+    margin: 2em;
+    display: none;
+}
+
+
+.dres {
+    background-color: rgb(209, 76, 76);
+    height: 100px;
+    width: 100px;
+    margin: 2em;
+    position: relative;
+    display: none;
+}
+
+
+.dos {
+    background-color: rgb(0, 0, 0);
+    height: 100px;
+    width: 100px;
+    margin: 2em;
+    position: relative;
+    display: none;
+}
+
+
+
